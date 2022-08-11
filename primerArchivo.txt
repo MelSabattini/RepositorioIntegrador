@@ -1,4 +1,9 @@
+
 hola mundo
 Este archivo ha sido modificado
+<<<<<<< HEAD
 Ya estamos llegando al final.
 Ya se ve el final del curso jajajja
+=======
+A ver como resolvemos esto
+>>>>>>> e2b406a8a1ff6a9645fabe16259d78e8c8629ef8
